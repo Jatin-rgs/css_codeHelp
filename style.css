@@ -1,0 +1,15 @@
+/* #one{
+    background-color: brown;
+} */
+ /* p{
+    background-color:brown;
+ }
+ article{
+    background-color:yellow;
+ }
+ h1{
+    background-color:blue;
+ } */
+  p,article{
+    background-color: yellow;
+  }
